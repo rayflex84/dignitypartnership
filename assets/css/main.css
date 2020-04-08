@@ -4709,6 +4709,10 @@ input, select, textarea {
 					text-transform: uppercase;
 				}
 
+				#navPanel .links .active {
+					background-color: #18bfef;
+				}
+
 				#navPanel .links li:first-child {
 					border-top: 0;
 				}
